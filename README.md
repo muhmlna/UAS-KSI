@@ -16,10 +16,10 @@ Setelah model dilatih, program melakukan prediksi pada data uji dan menghitung a
 Hasil output program menampilkan dataset dengan kolom jenis air, jumlah data dari masing-masing jenis air, akurasi model, serta nilai precision, recall, dan f1-score untuk masing-masing kelas.
 
 ## Library yang digunakan
-pandas
-sklearn.model_selection/train_test_split
-sklearn.naive_bayes/GaussianNB
-sklearn.metrics/accuracy_score, precision_score, recall_score
+- pandas
+- sklearn.model_selection/train_test_split
+- sklearn.naive_bayes/GaussianNB
+- sklearn.metrics/accuracy_score, precision_score, recall_score
 
 
 
