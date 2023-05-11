@@ -5,9 +5,9 @@ TUGAS BESAR
 KAPITA SELEKTA INFORMATIKA (RD)
 
 ## KELOMPOK :
--Muhammad Maulana			120140080
--Hanif Putra Agusta		120140120
--Muhammad Hadi Arsa		120140150
+- Muhammad Maulana			120140080
+- Hanif Putra Agusta		120140120
+- Muhammad Hadi Arsa		120140150
 
 ## Deskripsi Program
 Program ini adalah sebuah implementasi algoritma Naive Bayes dalam klasifikasi kualitas air yang dapat diminum berdasarkan dataset yang diberikan. Program ini menggunakan library Pandas untuk membaca dataset dalam format CSV, kemudian melakukan pemrosesan data untuk menambahkan kolom jenis air berdasarkan nilai pH, menghilangkan baris dengan nilai NaN, dan memisahkan data menjadi data atribut dan data label.
